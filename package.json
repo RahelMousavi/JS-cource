@@ -8,6 +8,6 @@
   },
   "keywords": ["coding", "web development","Java Script" ],
   "author": "Lale",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs"
 }
