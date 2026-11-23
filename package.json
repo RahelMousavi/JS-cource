@@ -9,5 +9,8 @@
   "keywords": ["coding", "web development","Java Script" ],
   "author": "Lale",
   "license": "MIT",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "express": "1.0.0"
+  }
 }
